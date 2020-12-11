@@ -1,0 +1,300 @@
+body {
+  text-align: center;
+}
+
+em {
+  font-family: 'Montserrat', cursive;
+  font-weight: 500;
+}
+
+.top1 {
+  background-image: url("../images/landscape.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: .91;
+  padding: 10% 2%;
+  position: relative;
+  text-align: center;
+}
+
+.cloud-left {
+  float: left;
+  left: 200px;
+  opacity: .41;
+  position: relative;
+  top: 250px;
+  width: 13%;
+}
+
+.cloud-right {
+  float: right;
+  opacity: .41;
+  position: relative;
+  right: 150px;
+  top: 100px;
+  width: 10%;
+}
+
+.nameH1 {
+  color: #5F8DF6;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  font-weight: 900;
+  margin-bottom: 7%;
+  /* opacity: .81; */
+}
+
+.profile-img {
+  border-radius: 100%;
+  margin-bottom: 7%;
+  opacity: .31;
+  width: 15%;
+}
+
+.top1-hr {
+  border: 7px dotted #FFF;
+  border-bottom: none;
+  opacity: .51;
+  width: 7%;
+}
+
+.top2 {
+  opacity: .91;
+  padding: 50px;
+  text-align: center;
+}
+
+.profileH1 {
+  font-family: 'Montserrat', cursive;
+  margin: 7% 15% 3% 15%;
+}
+
+.profileHr1 {
+  border: 7px dotted #BBBBBB;
+  border-bottom: none;
+  opacity: .51;
+  width: 7%;
+}
+
+.profileH4 {
+  font-family: 'Montserrat', cursive;
+  margin-bottom: 3%;
+}
+
+.top3 {
+  margin: 5% 25%;
+  text-align: center;
+}
+
+.aboutH4 {
+  color: #bedcfa;
+  font-family: 'Montserrat', cursive;
+  font-weight: 900;
+  text-align: left;
+}
+
+.aboutP {
+  text-align: left;
+}
+
+.about-col {
+  padding: 0 18% 0 10%;
+}
+
+.profile-img2 {
+  border: 7px solid #bedcfa;
+  border-radius: 100%;
+  height: 55%;
+  width: 55%;
+}
+
+.details-col {
+  margin-left: 47%;
+  text-align: left;
+}
+
+.detailsH4 {
+  color: #bedcfa;
+  font-family: 'Montserrat', cursive;
+  font-weight: 900;
+}
+
+.endtop3 {
+  border: 1px solid #BBBBBB;
+  border-bottom: none;
+  width: 57%;
+}
+
+.top4 {
+  /* margin: 5% 25%; */
+  background-color: #bedcfa;
+  opacity: .91;
+  padding: 7% 15% 0.1px;
+  text-align: center;
+}
+
+.education-left-col {
+  font-family: 'Montserrat', cursive;
+  text-align: left;
+}
+
+.education-right-col {
+  font-family: 'Montserrat', cursive;
+  padding-left: 57%;
+  text-align: left;
+}
+
+.educationH1 {
+  font-family: 'Montserrat', cursive;
+  text-align: center;
+}
+
+.educationHr {
+  border: 7px dotted #383838;
+  border-bottom: none;
+  opacity: .51;
+  margin: 5% auto 5% auto;
+  width: 7%;
+}
+
+.education-divider {
+  background-color: #BBBBBB;
+  border-bottom: none;
+  width: auto;
+}
+
+.top5 {
+  background-color: #bedcfa;
+  opacity: .91;
+  padding: 7% 15% 12%;
+  text-align: center;
+}
+
+.skills {
+  color: #bedcfa;
+  font-family: 'Montserrat', cursive;
+  font-weight: 900;
+  padding: 7% 15% 0 15%;
+}
+
+#top6 {
+  color: #bedcfa;
+  opacity: .88;
+  padding-bottom: 1%;
+  text-align: center;
+}
+
+.skillsHr {
+  border: 7px dotted #BBBBBB;
+  border-bottom: none;
+  opacity: .51;
+  margin-top: 3%;
+  width: 7%;
+}
+
+.testimonial-image {
+  border-radius: 100%;
+  margin: 1% 15% 4% 15%;
+  opacity: .91;
+  width: 10%;
+}
+
+.carousel-item {
+  padding: 4% 15%;
+}
+
+.carousel-control-next-icon {
+  background-image: url("../images/arrow-right.png");
+  height: 17%;
+  margin-bottom: 40%;
+  width: 17%;
+}
+
+.carousel-control-prev-icon {
+  background-image: url("../images/arrow-left.png");
+  height: 17%;
+  margin-bottom: 40%;
+  width: 17%;
+}
+
+.skills-img-topper {
+  color: #bedcfa;
+  font-family: 'Montserrat', cursive;
+  font-weight: 900;
+}
+
+#top7 {
+  background-color: #bedcfa;
+  opacity: .88;
+  padding-bottom: 1%;
+  text-align: center;
+}
+
+.toolsH1 {
+  color: #3A3A3E;
+  font-family: 'Montserrat', cursive;
+  font-weight: 900;
+  opacity: .41;
+  padding: 7% 15% 0 15%;
+}
+
+.toolsHr {
+  border: 7px dotted #383838;
+  border-bottom: none;
+  opacity: .51;
+  margin-top: 3%;
+  width: 7%;
+}
+
+.tools-img-topper {
+  color: #3A3A3E;
+  font-family: 'Montserrat', cursive;
+  font-weight: 900;
+  opacity: .41;
+}
+
+.top8 {
+  background-color: #8B8B92;
+  font-family: 'Montserrat', cursive;
+  padding: 10% 20%;
+  text-align: center;
+}
+
+.contactH1 {
+  color: #FFF;
+  padding-bottom: 3%;
+}
+
+.contactP {
+  color: #FFF;
+  padding-bottom: 3%;
+}
+
+.fab, .fas {
+  color: #FFF;
+}
+
+.contactHr {
+  border: 7px dotted #383838;
+  border-bottom: none;
+  margin: 5% auto 5% auto;
+  opacity: .51;
+  width: 86%;
+}
+
+@media (max-width: 680px) {
+  .profile-img {
+    bottom: 65%;
+    opacity: .80;
+    padding: 5px;
+    position: absolute;
+    right: 80%;
+  }
+}
+
+@media (min-width: 990px) {
+  .profile-img2 {
+    width: auto;
+    height: auto;
+  }
+}
